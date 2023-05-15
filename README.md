@@ -111,6 +111,6 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
+- Email: ats-service@yandex.ru
 - LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Личный сайт: (https://vk.com/zhuravlyoval)
